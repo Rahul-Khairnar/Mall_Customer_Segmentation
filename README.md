@@ -51,6 +51,12 @@ boost their sales by targeting the appropriate customers.
 
 
 
+* Pairplot to see the relationship between the various features of the dataset.
+
+![alt text](https://github.com/Rahul-Khairnar/Mall_Customer_Segmentation/blob/master/PHOTOS/Pairplot.png "Localities Explore")
+
+
+
 * Line plot is observed to get the number of clusters that can be used to get the appropriate segregation of the customers.
 
 ![alt text](https://github.com/Rahul-Khairnar/Mall_Customer_Segmentation/blob/master/PHOTOS/Lineplot%20elbow.PNG "Localities Explore")
